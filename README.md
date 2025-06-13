@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mood Tracker
 
 A lightweight web application for teams to track daily mood check-ins. Employees can submit their current mood along with an optional comment. Admins can view and analyze submissions through a clean, responsive dashboard.
@@ -115,3 +116,6 @@ App will be available at `http://localhost:3000`.
 ## License
 
 MIT License © 2025 Malya Srivastava
+=======
+# Moodtracker
+>>>>>>> 287d223fe4b6d34369d93a05d2ffdd8aef953d2b
